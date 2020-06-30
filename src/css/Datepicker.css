@@ -1,0 +1,21 @@
+.react-datepicker__header {
+    background-color: red;
+}
+
+.react-datepicker__current-month{
+    color: white;
+    text-transform: uppercase;
+}
+
+.react-datepicker__day-name{
+    color: white;
+    font-weight: bold;
+}
+
+.react-datepicker__day--selected{
+    background-color: red;
+}
+
+.react-datepicker__day--keyboard-selected{
+    background-color: red;
+}

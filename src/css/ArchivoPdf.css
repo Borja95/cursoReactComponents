@@ -1,0 +1,29 @@
+.tituloPdf{
+    text-align: center;
+}
+
+.parrafoPdf{
+    text-align: justify;
+}
+
+.imagenesPdf{
+    width: 880px;
+    height: 222px;
+}
+
+.botonPdf{
+    display: flex;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.logoPdf{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    display: flex;
+}
+
+.ocultarContenedor{
+    display: none;
+}

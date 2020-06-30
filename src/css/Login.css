@@ -1,0 +1,27 @@
+
+.divPrincipalCentrado{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 3px solid black;
+    padding: 40px;
+    background-color: white;
+}
+
+.divHijo{
+    text-align: center;
+}
+
+.btnIniciarSesion{
+    font-size: 24px;
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+.btnIniciarSesion:hover{
+    background-color: white;
+    color: black;
+    border-color: black;
+}

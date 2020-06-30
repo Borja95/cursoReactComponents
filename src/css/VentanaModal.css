@@ -1,0 +1,21 @@
+.containerPrincipal{
+    display: flex;
+}
+
+.btnPrincipal{
+    margin: auto;
+}
+
+.modalHeader{
+    display: block;
+}
+
+.tituloModal{
+    display: inline-block;
+}
+
+.btnCerrar{
+    float: right;
+    display: inline-block;
+    cursor: pointer;
+}

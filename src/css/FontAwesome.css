@@ -1,0 +1,29 @@
+
+h1 {
+    font-size: 60px;
+  }
+  ul {
+    list-style: none;
+    font-size: 50px;
+  }
+  
+  .iconoApple {
+    background: black;
+    border: solid 2px black;
+    color: white;
+  }
+  
+  .iconoFacebook {
+    background: #f7f7f7;
+    border: solid 2px blue;
+    color: blue;
+  }
+  
+  .iconoGoogle {
+    background: #f7f7f7;
+    border: solid 2px red;
+    color: red;
+  }
+  .iconoCargando {
+    color: red;
+  }
